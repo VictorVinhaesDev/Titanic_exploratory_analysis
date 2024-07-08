@@ -1,1 +1,2 @@
-# Titanic_exploratory_analysis
+# Titanic Exploratory Analysis
+
